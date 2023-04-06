@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veenit Kumar</h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Passionated+Sotware+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Passionated+Developer+%3A)" /> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veenit9560&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22veenit9560%22" /> </p>
 
@@ -36,3 +36,13 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img alt="Github" src="https://img.shields.io/badge/Github-00C7B5?style=for-the-badge&logo=github&logoColor=white"/>
 </div><br/>
+
+<h3 align="left">Web Tech Stack :</h3>
+<div align="left">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> 
+<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="MaterializeCSS" src="https://img.shields.io/badge/materialize_css-%23323330?style=for-the-badge&logo=materialize-css&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
